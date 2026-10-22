@@ -1,0 +1,10 @@
+node_modules/
+.next/
+app/data/
+tidecloak-data/
+img_results/
+*.log
+.env*
+!.env.example
+README_template.md
+*.tsbuildinfo
